@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "npx vite",
+    "build": "npx vite build", 
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "preview": "npx vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "@vitejs/plugin-react": "^4.2.1"
+  }
+}
